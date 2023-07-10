@@ -1,0 +1,77 @@
+.privacy-big-title {
+    width: 72.5rem;
+    font-weight: 600;
+    font-size: 6.4rem;
+    line-height: 1.1;
+    letter-spacing: -3%;
+    color:   rgba(91, 91, 91, 1);
+    margin-bottom: 2.4rem;
+}
+.privacy-title {
+    width: 72.5rem;
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 1.25; 
+    color:rgba(13, 19, 23, 1);
+    margin-bottom: 2.4rem;
+}
+.privacy-text1{
+    width: 72.5rem;
+    height: 16.8rem;
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.75; 
+    color:   rgba(91, 91, 91, 1); 
+    margin-bottom: 2.4rem;
+}
+.privacy-text2{
+    width: 72.5rem;
+    height: 11.2rem;
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.75; 
+    color:   rgba(91, 91, 91, 1); 
+    margin-bottom: 4rem;
+}
+.privacy-text3{
+    width: 72.5rem;
+    height: 25.2rem;
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.75; 
+    color:   rgba(91, 91, 91, 1); 
+    margin-bottom: 2.4rem;
+
+}
+.privacy-text4{
+    width: 72.5rem;
+    height: 16.8rem;
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.75; 
+    color:   rgba(91, 91, 91, 1); 
+    margin-bottom: 4rem;
+}
+.privacy-text5{
+    width: 72.5rem;
+    height: 25.2rem;
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.75; 
+    color:   rgba(91, 91, 91, 1); 
+}
+.privacy-text6{
+    width: 72.5rem;
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.75; 
+    color:   rgba(91, 91, 91, 1); 
+}
+.privacy-text-small{
+    width: 72.5rem;
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.75; 
+    color:   rgba(91, 91, 91, 1); 
+    margin-bottom: 4.8rem;
+}

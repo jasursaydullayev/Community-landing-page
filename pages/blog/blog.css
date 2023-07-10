@@ -1,0 +1,280 @@
+.main-header{
+    width: 100%;
+    height: 74.9rem;
+    display: flex;
+    background-color:rgba(220, 234, 245, 1);
+    justify-content: center;
+    align-items: center;
+}
+.div-wrapper{
+    margin-bottom: 15rem;
+    margin-right: 10.2rem;
+}
+.main-header-div{
+    display: flex;
+    align-items: center;
+    gap: 1.8rem;
+    margin-top: 16.1rem;
+    margin-bottom: 2.4rem;
+}
+.main-header-h1 {
+    width: 52.7rem;
+    height: 21.6rem;
+    font-weight: 600;
+    font-size: 6.4rem;
+    line-height: 1.1;
+    letter-spacing:-3%;
+    margin-bottom: 2.4rem;
+}
+.main-header-text {
+    font-weight: 500;
+    font-size: 1.8rem;
+    line-height: 1.6;
+    width: 55.9rem;
+    height: 9rem;
+    margin-bottom: 2.4rem;
+}
+.blog-inner-link {
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: rgba(245, 138, 7, 1); 
+}
+.header-image{
+    border-radius: 1.9rem;
+    width: 84.9em;
+    height: 49.3rem;
+}
+/* main-main */
+.all-wrapper-div{
+    margin-bottom: 12.8rem;
+}
+.mega-div{
+    display: flex;
+}
+.mega-wrapper-div{
+    display: flex;
+}
+/* DIV-FIRST */
+.all-h1{
+    font-weight: 600;
+    font-size: 4.8rem;
+    line-height: 5.6rem;
+    letter-spacing: -3%;
+    margin-top:  12.8rem;
+    margin-bottom:6.4rem;
+    color: rgba(13, 19, 23, 1);
+  
+}
+.div-first {
+    background-color:  rgba(237, 247, 255, 1);
+    border-radius: 0px, 0px, 20px, 20px;
+   
+    width:40rem ;
+    height: 50.7rem; 
+    margin-right: 4rem;
+    margin-bottom: 4rem;
+}
+.first-h4{
+    width: 33.6rem;
+    height: 7.2rem;
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 3.6rem;
+    letter-spacing: -3%;
+    margin-left: 3.2rem;
+    margin-top: 3.2rem;
+    color:  rgba(13, 19, 23, 1);
+}
+.first-text{
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    color: rgba(91, 91, 91, 1); 
+   width:33.6rem ;
+   height: 8.4rem;
+   margin-top: 1.6rem;
+   margin-left: 3.2rem;
+}
+.inner-link {
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: rgba(245, 138, 7, 1);
+    padding-top: 2.4rem;
+    padding-left: 3.2rem;
+}
+/* SECOND-DIV */
+.div-second {
+    background-color:  rgba(237, 247, 255, 1);
+    width:40rem ;
+    height: 50.7rem; 
+    margin-right: 4rem;
+    margin-bottom: 4rem;
+}
+.second-h4 {
+    width: 33.6rem;
+    height: 7.2rem;
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 3.6rem;
+    letter-spacing: -3%;
+    margin-left: 3.2rem;
+    margin-top: 3.2rem;
+    color:  rgba(13, 19, 23, 1);
+}
+.second-text {
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    color: rgba(91, 91, 91, 1); 
+   width:33.6rem ;
+   height: 8.4rem;
+   margin-top: 1.6rem;
+   margin-left: 3.2rem;
+}
+.inner-link {
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: rgba(245, 138, 7, 1);
+    padding-top: 2.4rem;
+    padding-left: 3.2rem;
+}
+/* THRID-DIV */
+.div-thrid {
+    background-color:  rgba(237, 247, 255, 1);
+    width:40rem ;
+    height: 50.7rem;  
+    margin-bottom: 4rem;
+}
+.thrid-h4 {
+    width: 33.6rem;
+    height: 7.2rem;
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 3.6rem;
+    letter-spacing: -3%;
+    margin-left: 3.2rem;
+    margin-top: 3.2rem;
+    color:  rgba(13, 19, 23, 1);
+}
+.thrid-text {
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    color: rgba(91, 91, 91, 1); 
+   width:33.6rem ;
+   height: 8.4rem;
+   margin-top: 1.6rem;
+   margin-left: 3.2rem;
+}
+.inner-link {
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: rgba(245, 138, 7, 1);
+    padding-top: 2.4rem;
+    padding-left: 3.2rem;
+}
+/* FOURTH-DIV */
+.div-fourth {
+    background-color:  rgba(237, 247, 255, 1);
+    width:40rem ;
+    height: 50.7rem; 
+    margin-right: 4rem;
+}
+.fourth-h4 {
+    width: 33.6rem;
+    height: 7.2rem;
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 3.6rem;
+    letter-spacing: -3%;
+    margin-left: 3.2rem;
+    margin-top: 3.2rem;
+    color:  rgba(13, 19, 23, 1);
+}
+.fourth-text {
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    color: rgba(91, 91, 91, 1); 
+   width:33.6rem ;
+   height: 8.4rem;
+   margin-top: 1.6rem;
+   margin-left: 3.2rem;
+}
+.inner-link {
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: rgba(245, 138, 7, 1);
+    padding-top: 2.4rem;
+    padding-left: 3.2rem;
+}
+/* FIFTH-DIV */
+.div-fifth {
+    background-color:  rgba(237, 247, 255, 1);
+    width:40rem ;
+    height: 50.7rem; 
+    margin-right: 4rem;
+}
+.fifth-h4 {
+    width: 33.6rem;
+    height: 7.2rem;
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 3.6rem;
+    letter-spacing: -3%;
+    margin-left: 3.2rem;
+    margin-top: 3.2rem;
+    color:  rgba(13, 19, 23, 1);
+}
+.fifth-text {
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    color: rgba(91, 91, 91, 1); 
+   width:33.6rem ;
+   height: 8.4rem;
+   margin-top: 1.6rem;
+   margin-left: 3.2rem;
+}
+.inner-link {
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: rgba(245, 138, 7, 1);
+    padding-top: 2.4rem;
+    padding-left: 3.2rem;
+}
+/* SIX-DIV */
+.div-six {
+    background-color:  rgba(237, 247, 255, 1);
+    width:40rem ;
+    height: 50.7rem; 
+    margin-right: 4rem;
+}
+.six-h4 {
+    width: 33.6rem;
+    height: 7.2rem;
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 3.6rem;
+    letter-spacing: -3%;
+    margin-left: 3.2rem;
+    margin-top: 3.2rem;
+    color:  rgba(13, 19, 23, 1);
+}
+.six-text {
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    color: rgba(91, 91, 91, 1); 
+   width:33.6rem ;
+   height: 8.4rem;
+   margin-top: 1.6rem;
+   margin-left: 3.2rem;
+}
+.inner-link {
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: rgba(245, 138, 7, 1);
+    padding-top: 2.4rem;
+    padding-left: 3.2rem;
+}

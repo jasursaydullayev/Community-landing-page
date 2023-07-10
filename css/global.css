@@ -6,6 +6,22 @@
     font-weight: 400;
     src: url('../fonts/poppins-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
   }
+  /* inter-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/inter-v12-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* inter-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/inter-v12-latin-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
   *,
   * ::before,
   * ::after{
@@ -42,18 +58,26 @@
   ol, ul{
     list-style: none;
   }
+
+  main {
+    flex-grow:1;
+  }
   .container {
-    max-width: 1280px;
+    width: 100%;
+    max-width: 1380px;
     padding-left: 5rem;
     padding-right: 5rem;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+ 
   }
   /* HEADER-START */
   .site-header{
-    padding: 3rem 0rem;
-  }
+    padding: 1.6rem 1.6rem;
+   }
+   .active {
+    color:  rgba(245, 138, 7, 1) !important;
+   }
   .sitenav{
     display: flex;
     justify-content: space-between;
@@ -150,6 +174,22 @@ padding-top: 1.2rem;
   font-weight: 500;
   width: 34.2rem;
   padding: 1.8rem 18.8rem 1.7rem 3.2rem;
+}
+.privacy{
+  display: flex;
+  margin-right: auto;
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color:rgba(255, 255, 255, 1) ;
+ 
+}
+.privacy-right{
+  display: flex;
+  margin-left: auto;
+  list-style: none;
+  padding-right: 3.5rem; 
+  gap: 3.1rem;
 }
 
  /* FOOTER-END */
